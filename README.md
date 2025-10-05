@@ -7,7 +7,7 @@
 Flask + SQLite で作成したシンプルな ToDo アプリです。  
 **追加 / 一覧表示 / 削除** の最小機能を、学習～面接説明まで使いやすい構成でまとめました。
 
-- **デモ**：🔗 https://🔁あなたのRenderURL  
+- **デモ**：🔗 https://flask-todo-uho0.onrender.com/
 - **技術**：Python / Flask / SQLite / Bootstrap 5
 
 ---
